@@ -1,0 +1,15 @@
+{
+  "name": "todofront",
+  "version": "1.0.0",
+  "description": "Todo in the frontend make with react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Barrera",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.7",
+    "reflux": "^0.3.0"
+  }
+}
